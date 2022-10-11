@@ -4,8 +4,6 @@
     {
         static void Main(string[] args)
         {
-            //alma
-            //körte
         }
     }
 }
